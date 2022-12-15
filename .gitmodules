@@ -1,0 +1,12 @@
+[submodule "LabDigII-Projeto-Hardware"]
+	path = LabDigII-Projeto-Hardware
+	url = git@github.com:GabZamba/LabDigII-Projeto-Hardware.git
+[submodule "LabDigII-Projeto-BackEnd"]
+	path = LabDigII-Projeto-BackEnd
+	url = git@github.com:jvtdegelo/LabDigII-Projeto-BackEnd.git
+[submodule "LabDigII-Projeto-Firmware"]
+	path = LabDigII-Projeto-Firmware
+	url = git@github.com:GabZamba/LabDigII-Projeto-Firmware.git
+[submodule "LabDigII-Projeto-FrontEnd"]
+	path = LabDigII-Projeto-FrontEnd
+	url = git@github.com:GabZamba/LabDigII-Projeto-FrontEnd.git
