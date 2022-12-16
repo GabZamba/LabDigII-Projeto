@@ -50,7 +50,7 @@ git submodule init
 git submodule update
 ```
 
-## Etapa 2: Atualizando os submódulos
+## Etapa 2: Atualizando os submódulos 
 
 Caso os submódulos estejam desatualizados em relação aos seus repositórios de origem, o seguinte comando deve ser rodado:
 
